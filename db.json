@@ -1,0 +1,163 @@
+{
+  "users":[
+    {
+      "email":"s@s",
+      "name":"sss",
+      "password":"sss"
+    },
+    {
+      "email":"s@ssss",
+      "name":"sss",
+      "password":"sss"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Formal Shoes ",
+      "price": 149,
+      "category": "Formal Shoes",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/52662bd7-3bef-426c-a16c-6d921ca71e1e/air-zoom-spiridon-photon-dust-and-fir-io1907-025-release-date.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Boots ",
+      "price": 199,
+      "category": "Shoes",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/49dd9d05-a5c2-451a-8a32-9139dfd13a41/paul-rodriguez-air-zoom-low-black-and-flint-grey-im7147-001-release-date.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Casual Shoes ",
+      "price": 249,
+      "category": "Casual Shoes",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/8a3ea605-cb3c-43cd-8106-f512bb105d4a/women-s-total90-fauna-brown-and-pale-ivory-ib4204-201-release-date.jpg"
+    },
+    {
+      "id": 4,
+      "name": " Sports Shoes ",
+      "price": 129,
+      "category": "Sports Shoes ",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/49dd9d05-a5c2-451a-8a32-9139dfd13a41/paul-rodriguez-air-zoom-low-black-and-flint-grey-im7147-001-release-date.jpg"
+    },
+    {
+      "id": 5,
+      "name": " Sports Shoes ",
+      "price": 129,
+      "category": "Sports Shoes ",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/b28cabee-27af-483b-bccc-fe087c7fde8f/acg-phassad-black-hm7133-002-release-date.jpg"
+    },
+    {
+      "id": 6,
+      "name": " Sports Shoes ",
+      "price": 129,
+      "category": "Sports Shoes ",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/b16100b4-83d8-44ee-ba27-40abf9580136/total-90-pearl-white-and-gum-dark-brown-ih2090-200-release-date.jpg"
+    },
+    {
+      "id": 7,
+      "name": " Sports Shoes ",
+      "price": 129,
+      "category": "Sports Shoes ",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/ef2ceaeb-a761-4cb2-88e4-a7ce40de7dfd/women-s-air-max-95-big-bubble-blue-tint-hj5996-002-release-date.jpg"
+    },
+    {
+      "id": 8,
+      "name": " Sports Shoes ",
+      "price": 129,
+      "category": "Sports Shoes ",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/3331d678-5677-453f-bf16-b5a91f114201/women-s-air-superfly-black-and-off-noir-hq9148-001-release-date.jpg"
+    },
+    {
+      "id": 9,
+      "name": " Sports Shoes ",
+      "price": 129,
+      "category": "Sports Shoes ",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/decad470-77b2-4942-bdeb-f7067472ef6e/field-general-low-multi-colour-im3075-002-release-date.jpg"    
+    },
+    {
+      "id": 10,
+      "name": " Sports Shoes ",
+      "price": 129,
+      "category": "Sports Shoes ",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/1a45b20d-2240-4dd7-937a-b83538974eb4/field-general-multi-colour-im3075-001-release-date.jpg"
+    },
+    {
+      "id": 11,
+      "name": " Sports Shoes ",
+      "price": 129,
+      "category": "Casual Shoes ",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/4d25e5e8-64bd-4bfe-90df-be412cdb4320/air-max-95-black-and-golden-beige-hq1973-001-release-date.jpg"    
+    },
+    {
+      "id": 12,
+      "name": " Casual Shoes ",
+      "price": 129,
+      "category": "Casual Shoes ",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/39e31d53-a5f9-425a-95f5-ec25afe9b8d1/air-jordan-3-el-vuelo-summit-white-and-pine-green-io1752-100-release-date.jpg"    
+    },
+    {
+      "id": 13,
+      "name": " Casual Shoes ",
+      "price": 129,
+      "category": "Casual Shoes ",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/70e76208-4c63-4b69-a018-7000a505873b/air-jordan-5-fire-red-black-tongue-hq7978-101-release-date.jpg"  
+    },
+    {
+      "id": 14,
+      "name": " Casual Shoes ",
+      "price": 129,
+      "category": "Casual Shoes ",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/9a4cf0c3-a571-45c8-8630-d171fcc0417d/air-jordan-4-cave-stone-and-black-fv5029-200-release-date.jpg"    
+    },
+    {
+      "id": 15,
+      "name": " Casual Shoes ",
+      "price": 129,
+      "category": "Casual Shoes ",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/8876aa8c-2d95-418b-b23b-abab0bc34288/air-jordan-5-x-awake-ny-black-dv4982-004-release-date.jpg"
+    },
+    {
+      "id": 16,
+      "name": " Casual Shoes ",
+      "price": 129,
+      "category": "Casual Shoes ",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/ab6e6f0e-073d-415c-b766-73568672b658/total-90-fir-and-gum-med-brown-ih2090-300-release-date.jpg"    
+    },
+    {
+      "id": 17,
+      "name": " Casual Shoes ",
+      "price": 129,
+      "category": "Casual Shoes ",
+      "image": "https://assets.adidas.com/images/h_2000,f_auto,q_auto,fl_lossy,c_fill,g_auto/2bfa8dc0fd61470da9aa7cec528667dd_9366/Response_Runner_Shoes_White_IH6106_01_00_standard.jpg"
+    },
+    {
+      "id": 17,
+      "name": " Casual Shoes ",
+      "price": 129,
+      "category": "Casual Shoes ",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/01d96b30-0c6b-42bf-89b5-30113e782ed6/nike-sb-dunk-low-pro-x-limosine-skateboards-brown-and-black-hj4131-200-release-date.jpg"    
+    },
+    {
+      "id": 18,
+      "name": " Casual Shoes ",
+      "price": 129,
+      "category": "Casual Shoes ",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/60683403-9463-4536-ae7d-479fd5dfd9fe/air-force-1-low-triple-black-im3078-001-release-date.jpg"
+    },
+    {
+      "id": 19,
+      "name": " Casual Shoes ",
+      "price": 129,
+      "category": "Casual Shoes ",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/2e3b37f2-b9fb-4572-97c6-0877e85e7c40/air-jordan-4-x-undefeated-deep-green-and-clementine-ib1519-200-release-date.jpg"    
+    },
+    {
+      "id": 20,
+      "name": " Casual Shoes ",
+      "price": 129,
+      "category": "Casual Shoes ",
+      "image": "https://static.nike.com/a/images/t_prod_pc/w_960,c_limit,q_auto,f_auto/e9e27a3b-5d96-4c5e-9038-3244e06d3969/kobe-3-protro-ep-halo-hq9153-100-release-date.jpg"
+    }
+  ]
+}
