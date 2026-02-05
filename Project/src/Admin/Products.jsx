@@ -1,5 +1,5 @@
 import React, { useCallback, useEffect, useState } from 'react'
-import SideBar from '../Components/SideBar'
+import SideBar from '../components/SideBar'
 import toast from 'react-hot-toast';
 import api from '../Api/Axios_Instance';
 

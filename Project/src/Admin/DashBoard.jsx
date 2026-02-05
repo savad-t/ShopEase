@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import SideBar from "../Components/SideBar";
+import SideBar from "../components/SideBar";
 import api from "../Api/Axios_Instance";
 import {BarChart3,Eye,Package,ShoppingCart,TrendingUp,Users,} from "lucide-react";
 import Fakeeee from "./Fakeeee";

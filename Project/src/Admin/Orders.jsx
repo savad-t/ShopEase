@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { toast } from "react-toastify";
 import {Search,Filter,Eye,ChevronDown,Calendar,User,Package,IndianRupee,} from "lucide-react";
-import SideBar from "../Components/SideBar";
+import SideBar from "../components/SideBar";
 import api from "../Api/Axios_Instance";
 
 const Orders = () => {
